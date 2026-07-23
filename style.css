@@ -65,3 +65,8 @@ button {
 button:hover {
     background-color: #2E7D32;
 }
+#darkModeBtn {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+}
